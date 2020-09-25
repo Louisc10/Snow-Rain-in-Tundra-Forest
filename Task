@@ -1,0 +1,18 @@
+1.	Bikin environment (tema bebas, sebisa mungkin berbeda tiap orang) -V
+2.	Minimal ada 5 jenis geometry
+    -Plane
+    -Ring
+    -Cylinder
+    -Cone
+3.	Minimal ada 3 jenis property material
+    -Color
+    -Side
+4.	Minimal ada 2 jenis light -V
+    -Spotlight
+    -DirectionalLight
+    -PointLight
+5.	Ada shadow
+6.	Minimal dua camera (bisa switch camera)
+7.	Ada raycast
+8.	Ada 3D model
+9.	Ada skybox
